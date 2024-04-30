@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asime\\Desktop\\Ado.net\\AdoNetTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E16F10-54F5-4F5A-929D-AEA4779D1604}|AdoNetTask\\AdoNetTask.csproj|c:\\users\\asime\\desktop\\ado.net\\adonettask\\adonettask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E16F10-54F5-4F5A-929D-AEA4779D1604}|AdoNetTask\\AdoNetTask.csproj|solutionrelative:adonettask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E16F10-54F5-4F5A-929D-AEA4779D1604}|AdoNetTask\\AdoNetTask.csproj|c:\\users\\asime\\desktop\\ado.net\\adonettask\\adonettask\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E16F10-54F5-4F5A-929D-AEA4779D1604}|AdoNetTask\\AdoNetTask.csproj|solutionrelative:adonettask\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E16F10-54F5-4F5A-929D-AEA4779D1604}|AdoNetTask\\AdoNetTask.csproj|c:\\users\\asime\\desktop\\ado.net\\adonettask\\adonettask\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E16F10-54F5-4F5A-929D-AEA4779D1604}|AdoNetTask\\AdoNetTask.csproj|solutionrelative:adonettask\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E16F10-54F5-4F5A-929D-AEA4779D1604}|AdoNetTask\\AdoNetTask.csproj|c:\\users\\asime\\desktop\\ado.net\\adonettask\\adonettask\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E16F10-54F5-4F5A-929D-AEA4779D1604}|AdoNetTask\\AdoNetTask.csproj|solutionrelative:adonettask\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Ado.net\\AdoNetTask\\AdoNetTask\\Program.cs",
+              "RelativeDocumentMoniker": "AdoNetTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Ado.net\\AdoNetTask\\AdoNetTask\\Program.cs",
+              "RelativeToolTip": "AdoNetTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T02:13:09.894Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Ado.net\\AdoNetTask\\AdoNetTask\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "AdoNetTask\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Ado.net\\AdoNetTask\\AdoNetTask\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "AdoNetTask\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T02:46:45.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Ado.net\\AdoNetTask\\AdoNetTask\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "AdoNetTask\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Ado.net\\AdoNetTask\\AdoNetTask\\Models\\Employee.cs",
+              "RelativeToolTip": "AdoNetTask\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T02:28:53.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Ado.net\\AdoNetTask\\AdoNetTask\\DataBase\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AdoNetTask\\DataBase\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Ado.net\\AdoNetTask\\AdoNetTask\\DataBase\\AppDbContext.cs",
+              "RelativeToolTip": "AdoNetTask\\DataBase\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T02:31:58.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
